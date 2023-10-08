@@ -1,0 +1,16 @@
+{
+    "name": "app/docker-nginx-stack",
+    "description": "Docker Nginx Stack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Burhan Riyadi",
+            "email": "burhan@tog.co.id"
+        }
+    ],
+    "require": {},
+    "config": {
+        "vendor-dir": "."
+    },
+    "minimum-stability": "dev"
+}
